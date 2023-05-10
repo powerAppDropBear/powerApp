@@ -6,11 +6,12 @@
     "Dropdown1": 6,
     "Host": 3,
     "Icon1": 5,
+    "Label1": 7,
     "testag": 4
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "05/10/2023 01:30:13",
+  "HeaderLastSavedDateTimeUTC": "05/10/2023 01:51:33",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "bde62cf6-78e1-4f25-bc2d-5ae19b395d71": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/8f8fb7cb405f470ca4481bfb275b0c67\""
@@ -28,14 +29,16 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "dropdown": 1,
-    "icon": 0
+    "dropdown": 2,
+    "icon": 0,
+    "label": 1
   },
   "OverridablePropertiesEntry": {
     "App": {},
     "Dropdown1": {},
     "Host": {},
     "Icon1": {},
+    "Label1": {},
     "testag": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
@@ -45,19 +48,20 @@
     "Dropdown1": 1,
     "Host": 0,
     "Icon1": 0,
+    "Label1": 0,
     "testag": 0
   },
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0686381,
+    "AnalysisLoadTime": 0.068171,
     "ControlCount": {
       "dropdown": 1,
       "icon": 1,
       "screen": 1
     },
-    "DeserializationLoadTime": 0.8365095
+    "DeserializationLoadTime": 0.5275301
   },
   "WasLocalDatabaseReferencesEmpty": true
 }

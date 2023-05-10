@@ -14,3 +14,9 @@ testag As screen:
         Y: =335
         ZIndex: =2
 
+    Label1 As label:
+        Text: ="HELLO"
+        X: =40
+        Y: =40
+        ZIndex: =3
+
