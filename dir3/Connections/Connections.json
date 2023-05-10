@@ -1,0 +1,27 @@
+{
+  "bde62cf6-78e1-4f25-bc2d-5ae19b395d71": {
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1627/1.0.1627.3238/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {
+      "https://fdmgroup.sharepoint.com/sites/PondGoalTracker": {
+        "dataSources": {
+          "Consultant_test": {
+            "tableName": "c905a56d-cdbd-413d-a4d3-5abbd0537107"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Consultant_test"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "bde62cf6-78e1-4f25-bc2d-5ae19b395d71"
+  }
+}

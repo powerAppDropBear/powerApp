@@ -1,0 +1,16 @@
+testag As screen:
+
+    Icon1 As icon.Airplane:
+        Height: =235
+        Icon: =Icon.Airplane
+        Width: =298
+        X: =302
+        Y: =238
+        ZIndex: =1
+
+    Dropdown1 As dropdown:
+        Items: =Consultant_test
+        X: =690
+        Y: =335
+        ZIndex: =2
+
